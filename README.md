@@ -20,11 +20,6 @@ I'm a Java Developer 💻, looking for my first job where I can get commercial e
 - Completing challanges at CodeWars
 - Practicing my backend skills
 
-## 🌱 I'm currently learning
-
-- Angular
-- Java 
-- Microsoft Graph API
 
 ## 💼 Technical Skills
 
