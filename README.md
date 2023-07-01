@@ -38,4 +38,4 @@ I'm a Java Developer 💻, looking for my first job where I can get commercial e
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pietryczko)](https://github.com/pietryczko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pietryczko7&layout=compact)](https://github.com/pietryczko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pietryczko&layout=compact)](https://github.com/pietryczko)
