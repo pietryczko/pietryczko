@@ -14,7 +14,7 @@ I'm a Java Developer 💻, looking for my first job where I can get commercial e
 
 ## 🔭 I'm currently working on
 
-- My old project Car Rental Website
+- My project Car Rental Website
   [Frontend](https://github.com/pietryczko/Car-Rental-Frontend) / 
   [Backend](https://github.com/pietryczko/Car-Rental-Backend)
 - Completing challanges at CodeWars
