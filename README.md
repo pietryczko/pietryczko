@@ -28,6 +28,7 @@ I'm a Java Developer 💻, looking for my first job where I can get commercial e
 ![](https://img.shields.io/badge/Hibernate-informational?style=flat&logo=hibernate&color=808080)
 ![](https://img.shields.io/badge/MySql-informational?style=flat&logo=mysql&color=fff)
 ![](https://img.shields.io/badge/Jira-informational?style=flat&logo=jira&color=%231e81fa)
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&color=fff)
 
 
 
